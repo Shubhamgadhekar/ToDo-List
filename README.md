@@ -1,7 +1,7 @@
 # To Do List
 
 ## Link of the ToDoList :
-https://tic-tak-toe-game.netlify.app
+https://todolistdaily.netlify.app
 
 ## GitHub Repo of ToDoList :
 https://github.com/Shubhamgadhekar/Tic-Tac-Toe
