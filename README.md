@@ -4,7 +4,7 @@
 https://todolistdaily.netlify.app
 
 ## GitHub Repo of ToDoList :
-https://github.com/Shubhamgadhekar/Tic-Tac-Toe
+https://github.com/Shubhamgadhekar/ToDo-List
 
 ## github.io link :
 https://shubhamgadhekar.github.io/Tic-Tac-Toe/
