@@ -7,7 +7,7 @@ https://todolistdaily.netlify.app
 https://github.com/Shubhamgadhekar/ToDo-List
 
 ## github.io link :
-https://shubhamgadhekar.github.io/Tic-Tac-Toe/
+https://shubhamgadhekar.github.io/ToDo-List/
 
 ## Technologies Used : 
 HTML, CSS and JavaScript.
